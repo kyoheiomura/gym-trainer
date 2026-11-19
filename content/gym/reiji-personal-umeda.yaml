@@ -1,0 +1,28 @@
+slug: reiji-personal-umeda
+name: レイジパーソナル 梅田
+nameKana: れいじぱーそなる うめだ
+kind: パーソナルジム
+address:
+  prefSlug: osaka
+  citySlug: osaka-kita
+  line: 梅田2-3-4（架空）
+  building: 例示ビル5階
+stations:
+  - line: 大阪メトロ御堂筋線
+    name: 梅田
+    walkMin: 5
+  - line: JR東海道線
+    name: 大阪
+    walkMin: 8
+hours:
+  - days: [月, 火, 水, 木, 金]
+    open: "06:00"
+    close: "22:00"
+  - days: [土]
+    open: "08:00"
+    close: "18:00"
+hoursNote: 日・祝は休み。オンラインは平日の朝6時から受けられる
+booking:
+  url: https://example.com/reiji-personal-umeda
+features: [完全個室, シャワー, ウェア・タオルの貸し出し, オンライン対応]
+verifiedAt: 2026-11-10

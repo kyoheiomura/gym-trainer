@@ -1,0 +1,28 @@
+slug: hinagata-studio
+name: ひながたスタジオ 新横浜
+nameKana: ひながたすたじお しんよこはま
+kind: スタジオ
+address:
+  prefSlug: kanagawa
+  citySlug: yokohama-kohoku
+  line: 新横浜1-2-3（架空）
+  building: 見本ハイツ1階
+stations:
+  - line: 横浜市営地下鉄ブルーライン
+    name: 新横浜
+    walkMin: 6
+  - line: JR横浜線
+    name: 新横浜
+    walkMin: 8
+hours:
+  - days: [月, 火, 水, 金]
+    open: "09:30"
+    close: "15:00"
+  - days: [土]
+    open: "09:30"
+    close: "12:00"
+hoursNote: 木・日・祝は休み。子どもの体調による当日の振り替えに応じている
+booking:
+  url: https://example.com/hinagata-studio
+features: [女性専用, キッズスペース]
+verifiedAt: 2026-10-20

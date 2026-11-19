@@ -1,0 +1,28 @@
+slug: kari-private-gym
+name: 仮プライベートジム
+nameKana: かりぷらいべーとじむ
+kind: パーソナルジム
+address:
+  prefSlug: tokyo
+  citySlug: shibuya
+  line: 代々木5-6-7（架空）
+  building: 仮マンション301
+stations:
+  - line: 小田急線
+    name: 参宮橋
+    walkMin: 4
+  - line: JR山手線
+    name: 代々木
+    walkMin: 11
+hours:
+  - days: [月, 火, 木, 金]
+    open: "10:00"
+    close: "21:00"
+  - days: [土]
+    open: "09:00"
+    close: "17:00"
+hoursNote: 水・日・祝は休み。完全予約制で、ひと枠ごとに入れ替える
+booking:
+  url: https://example.com/kari-private-gym
+features: [完全個室, 女性専用, シャワー, ウェア・タオルの貸し出し, オンライン対応]
+verifiedAt: 2026-10-28
